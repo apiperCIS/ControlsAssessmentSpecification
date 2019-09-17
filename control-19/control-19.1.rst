@@ -39,7 +39,7 @@ Existence
 .. list-table::
 
 	* - **Metric**
-	  - | Binary value indicating if that there is an incident response plan document that defines
+	  - | Binary value indicating if there is an incident response plan document that defines
 	    | the roles of personnel as well as phases of incident handling/management.
 	    | 1 if all 3 criteria are met, 0 if at least one is not met
 	* - **Calculation**
